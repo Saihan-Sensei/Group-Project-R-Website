@@ -1,0 +1,42 @@
+username: kareemabdul2425
+password: TpiqyatOlVL37nIb
+
+JWT_SECRET=85f5e6a7cf8c8b7d104e9c09fe1e0435b11b6e5be689f25b34643abf20670ed9
+
+
+mongodb+srv://kareemabdul2425:<db_password>@cluster0.8z9ksrb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+Steps for the Project: 
+
+1. Install Node.js, MongoDB, Git.
+
+2. Create project folders client and server (frontend and backup). 
+
+3. Initialize server with npm, install dependencies.
+
+4. Set up Express server, connect to MongoDB.
+
+5. Define Mongoose schemas.
+
+6. Create routes and controllers for authentication, tasks, groups.
+
+7. Test API with Postman.
+
+8. Set up React client with create-react-app.
+
+9. Install React dependencies: react-router-dom, axios, bootstrap.
+
+10. Create components, set up routing.
+
+11. Implement authentication context to manage user state.
+
+12. Create forms for login, registration, task creation, group creation.
+
+13. Fetch and display tasks and groups from the backend.
+
+14. Implement task sharing and group management features.
+
+15. Test the entire application flow.
+
+16. Write documentation and prepare presentation.
